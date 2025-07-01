@@ -1,49 +1,69 @@
-<h1> Hey there! I'm Dhairya 👋 </h1>
-<h2> A Passionate TechLover From India 🇮🇳 </h2>
+<h1 align="center">Hey there! I'm Dhairya 👋</h1>
+<h3 align="center">A Passionate TechLover from India 🇮🇳</h3>
 
-<!-- 🧮 Visitor counter badge -->
-<p align="left">
-  <!-- This SVG increments on every load; you can move it or style it differently -->
+<p align="center">
   <img src="https://profile-counter.glitch.me/Dhairyasummi/count.svg" alt="Visitor Count" />
 </p>
 
-<img align="right" alt="GIF" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" width="500"/>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Passionate+Full-Stack+Developer;Open+Source+Contributor;Tech+Explorer+%F0%9F%94%8E;Always+Learning+Something+New" alt="Typing SVG" />
+</div>
 
-<h3> 👨🏻‍💻 About Me </h3>
+---
 
-- 🔭 &nbsp; I’m currently learning React and React Native for Development  
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.  
-- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.  
-- 💼 &nbsp; Interest as a full-stack developer and Data Science.  
-- 🌱 &nbsp; Enthusiast in full-Stack and Artificial Intelligence .  
-- ✍️ &nbsp; Watching universe and trying out latest design trends as hobbies/side hustles.  
-- 😴 &nbsp; I believe a perfect nap can be the ultimate solution for any stress.  
+<img align="right" alt="GIF" width="400" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" />
 
-<h3>🛠 Tech Stack</h3>
+### 👨🏻‍💻 About Me
 
-- 💻 &nbsp; Python | JavaScript | React | C++ | MERN  
-- 🌐 &nbsp; Full‑Stack | React | HTML | CSS | JavaScript | Bootstrap | Sass | Tailwind  
-- 🛢 &nbsp; MySQL | Firebase | Postman  
-- 🔧 &nbsp; Google Colab | Jupyter | Visual Studio Code | Git  
-- 🖥 &nbsp; Adobe XD | Illustrator | Photoshop | Figma  
+- 🔭 Currently learning **React & React Native**
+- 🤖 Exploring AI, ML, and emerging tech trends
+- 🧠 Studying **Computer Science & Mathematics**
+- 🌱 Passionate about **Full-Stack Development** & **Data Science**
+- 🧩 Hobbyist in design, animations, and stargazing
+- 😴 Believer in power naps 😄
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dhairyasummi&theme=submarine-flowers&border_radius=5&fire=DD701B)](https://git.io/streak-stats)
+---
 
-<br>
+<details>
+  <summary>🛠️ Tech Stack</summary>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Dhairyasummi&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Dhairya's GitHub Stats">
+  **Languages & Frameworks**
+  - 💻 Python | JavaScript | C++ | React | MERN
+  - 🌐 HTML | CSS | Tailwind | Sass | Bootstrap
 
-</br>
+  **Databases & APIs**
+  - 🛢️ MySQL | Firebase | Postman
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhairyasummi&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/Dhairyasummi/github-readme-stats)
+  **Tools**
+  - 🧪 Google Colab | Jupyter | VS Code | Git
 
-<h3> 🤝🏻 Connect with Me </h3>
+  **Design**
+  - 🎨 Figma | Adobe XD | Photoshop | Illustrator
+</details>
+
+---
+
+### 📈 GitHub Stats
 
 <p align="center">
-&nbsp; <a href="https://twitter.com/Summidhairya" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
-&nbsp; <a href="https://www.instagram.com/dhairya.summi/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
-&nbsp; <a href="https://www.linkedin.com/in/dhairya-summi-568036284/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>  
-&nbsp; <a href="mailto:dhairya.summi@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png" width="50" /></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Dhairyasummi&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&fire=EB5757&currStreakLabel=EB5757" alt="GitHub Streak" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Dhairyasummi&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhairyasummi&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-⭐️ From [DHAIRYA SUMMI](https://github.com/Dhairyasummi)
+---
+
+### 🤝🏻 Connect with Me
+
+<p align="center">
+  <a href="https://twitter.com/Summidhairya"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50"/></a>
+  <a href="https://www.instagram.com/dhairya.summi/"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50"/></a>
+  <a href="https://www.linkedin.com/in/dhairya-summi-568036284/"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50"/></a>
+  <a href="mailto:dhairya.summi@gmail.com"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png" width="50"/></a>
+</p>
+
+---
+
+⭐️ From [Dhairya Summi](https://github.com/Dhairyasummi)
