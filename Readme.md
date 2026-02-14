@@ -218,11 +218,12 @@ const dhairya = {
 
 <div align="center">
 
-### 🎵 Vibing To
 
-[![Spotify](https://novatorem-dhairyasummi.vercel.app/api/spotify)](https://open.spotify.com/user/dhairyasummi)
+### 🎵 Currently Vibing To
 
-*Note: Connect your Spotify for live music status!*
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=nriqxrux2tdhan5716sjrzvwu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f)](https://open.spotify.com/user/nriqxrux2tdhan5716sjrzvwu)
+
+*Jamming to some tunes while coding! 🎧*
 
 ### ⚡ Fun Fact
 *"I speak fluent JavaScript, broken Python, and sarcasm."*
